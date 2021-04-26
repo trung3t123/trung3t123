@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trung3t123
 - 👀 I’m interested in React Native and JS stuff
-- 🌱 I’m currently learning and working with React Native
+- 🌱 I’m currently learning and working with React Native in VietNam
 - 📫 How to reach me : 
  Email : trung3t123@gmail.com
 
