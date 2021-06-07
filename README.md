@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @trung3t123
+- 👋 Hi, I’m @trung3t123 , call me Tristan thanks!
 - 👀 I’m interested in React Native and JS stuff
 - 🌱 I’m currently learning and working with React Native in VietNam
 - 📫 How to reach me : 
